@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, serif;
+  line-height: 1.4;
+  margin: 3em;
+	color: #00CC99;
+}
+
+
+
+/* Step 1: First make all the anchors on the page #FFA7C0 */
+a{
+  color:#FFA7C0 ;
+}
+
+/* Step 2: Then make the anchors within the header nav #D16121 */
+header a{
+  color:  #d16162;
+}
+
+/* Step 3: Lastly, make the anchors in the footer nav #FFE540 */
+footer a{
+  color: darkgoldenrod;
+}
+footer{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
