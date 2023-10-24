@@ -26,7 +26,7 @@ footer {
 }
 
 main {
-    flex: 1;
+    flex: 1; /*60px+60px+flex 1fills up the space, idk what that mean*/
 }
 
 h3 {

@@ -10,15 +10,23 @@ html{
 }
 
 nav {
-    /* Define the height of the navigation bar in pixels */
+    height: 60px;
+    
 }
 
 ul.flex-container {
   /* This is the parent element where you will set display:flex  */
+  display: flex;
+  justify-content: space-around;
+
+  list-style: none;
+  background: tomato;
+  line-height: 60px; /*shortcut to vertically center text*/
+
 }
 
 a {
     /* These are the children elements */
-    color:black;
+    color: azure;
     text-decoration: none;
 }
