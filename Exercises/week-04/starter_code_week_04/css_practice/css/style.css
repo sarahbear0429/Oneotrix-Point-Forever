@@ -13,7 +13,8 @@ p{color:#EB7F00 ;
 
 /*------ PART 2 -------------------------*/
 /*1. Center the h3*/
-h3{text-align: center;}
+h3{text-align: center;
+    color:#FFFFFF}
 
 /*2. Change the font-size of the paragraph element to 40px and the font-weight to bold*/
 
