@@ -8,13 +8,19 @@ body{background-color:#1695A3 ;}
 /* 3. Change the text color for the paragraph element to #EB7F00*/
 p{color:#EB7F00 ;
     font-size: 40px;
-    font-weight: bold;}
+    font-weight: bold;
+    font-family: 'Tilt Neon', sans-serif;
+}
 
 
 /*------ PART 2 -------------------------*/
 /*1. Center the h3*/
 h3{text-align: center;
-    color:#FFFFFF}
+    color:#FFFFFF  
+}
+h3{
+    font-family: 'Tilt Neon', sans-serif;
+}
 
 /*2. Change the font-size of the paragraph element to 40px and the font-weight to bold*/
 

@@ -13,26 +13,28 @@
   
   body {
     min-height: 100vh;
-    background-color: papayawhip;
+    background-color: darkgrey ;
   }
   
  
   
   main, header, footer {
     padding: 20px;
-    border: 1px solid #000000;
-    color: #141414;
+    border: 1px solid orchid;
+    color: white;
   }
   
  
   
-  header,
-  footer {
-    height: 20vh;
+  header{
+    height: 40vh;
   }
-  
+  footer{
+    height: 10px; 
+  }
+
   main {
-    height: 60vh;
+    height: 80vh;
   }
  
   h1{
@@ -41,5 +43,15 @@
     font-size: 100px;
     font-family: 'Tilt Neon', sans-serif;
     }
-   
-  
+  h3{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Tilt Neon', sans-serif;
+  }  
+  main{
+    color: midnightblue;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Tilt Neon', sans-serif;
+  }
