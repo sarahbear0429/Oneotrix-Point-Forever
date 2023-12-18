@@ -7,7 +7,7 @@
 
 body {
     background: #2A4C80;
-    color: #E4E8E9;
+    color: chocolate;
     height: 100vh;
 }
 
@@ -45,7 +45,7 @@ h3 {
 
 .flex-layout {
     display: flex;
-    /* border: 2px solid green; */
+    border: 2px solid green; 
 }
 
 .image-container, 
@@ -59,9 +59,12 @@ h3 {
 }
 
 img {
-    width: 100%;
-    /* height: 100%; */
-    object-fit: cover;
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
 }
 
 footer a {
